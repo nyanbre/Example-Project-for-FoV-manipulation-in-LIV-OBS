@@ -7,6 +7,7 @@ It makes [OBS](https://obsproject.com/) resize LIV source window synchronously w
 
 ## See it in action 
 (not a perfect shot though, it should be much better for other cases)
+
 ![](capture.gif)
 
 ## Installation
